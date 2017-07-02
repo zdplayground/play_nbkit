@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+halos*
+myowncode/
+nbkit_example_power.json
+power_nfft2580.csv
